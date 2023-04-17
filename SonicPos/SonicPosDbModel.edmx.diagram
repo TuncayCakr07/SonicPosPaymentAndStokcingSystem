@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="3a036b94ecfc4768a89622e999de915f" Name="Diagram1">
+        <EntityTypeShape EntityType="SonicPosDbModel.HizliUrun" Width="1.5" PointX="2.75" PointY="0.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="SonicPosDbModel.Islem" Width="1.5" PointX="1" PointY="2" IsExpanded="true" />
+        <EntityTypeShape EntityType="SonicPosDbModel.Satis" Width="1.5" PointX="4.25" PointY="0.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="SonicPosDbModel.Terazi" Width="1.5" PointX="7.25" PointY="2" IsExpanded="true" />
+        <EntityTypeShape EntityType="SonicPosDbModel.Urun" Width="1.5" PointX="5.75" PointY="0.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="SonicPosDbModel.Barkod" Width="1.5" PointX="1" PointY="0.5" />
+        <EntityTypeShape EntityType="SonicPosDbModel.UrunGrup" Width="1.5" PointX="7.25" PointY="0.5" />
+        <EntityTypeShape EntityType="SonicPosDbModel.StokHareket" Width="1.5" PointX="8.875" PointY="0.5" />
+        <EntityTypeShape EntityType="SonicPosDbModel.Sabit" Width="1.5" PointX="4.25" PointY="4.375" />
+        <EntityTypeShape EntityType="SonicPosDbModel.IslemOzet" Width="1.5" PointX="2.625" PointY="2.375" />
+        <EntityTypeShape EntityType="SonicPosDbModel.Musteri" Width="1.5" PointX="7.375" PointY="3.5" />
+        <EntityTypeShape EntityType="SonicPosDbModel.Kullanici" Width="1.5" PointX="1" PointY="3.5" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
